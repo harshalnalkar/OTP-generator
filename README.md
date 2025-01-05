@@ -40,7 +40,7 @@ A stylish, animated One-Time Password (OTP) generator with a cyberpunk/hacker ae
    ├── script.js
    ├── README.md
    ├── LICENSE
-   ├── screenshots/
+   ├── images/
    │   ├── banner.png
    │   ├── main-interface.png
    │   ├── otp-animation.png
